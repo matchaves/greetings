@@ -1,3 +1,3 @@
-module example.com/greetings
+module github.com/matchaves/greetings
 
 go 1.18
